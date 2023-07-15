@@ -2,9 +2,9 @@
 
 ## Goals
 
-- [] Make this thing work on Windows w/o WSL
+- [ ] Make this thing work on Windows w/o WSL
   - (optional) make it x-plat for fun
-- Fully-automated, two steps only: clone & install
+- [ ] Fully-automated, two steps only: clone & install
 
 ## How?
 
@@ -18,18 +18,18 @@
 
 ### Reesarch
 
-- [] figure out what install.sh does
-- [] look at those git submodules
-- [] review llvm requirements
-- [] review py requirements
-- [] review blender-python requirements
-- [] review terrain requiremtns
-- [] review NURBS requirements
-- [] make sure it'll work with blender/windows
+- [ ] figure out what install.sh does
+- [ ] look at those git submodules
+- [ ] review llvm requirements
+- [ ] review py requirements
+- [ ] review blender-python requirements
+- [ ] review terrain requiremtns
+- [ ] review NURBS requirements
+- [ ] make sure it'll work with blender/windows
 
 ### Code
 
-- []  write an install script in powershell
+- [ ]  write an install script in powershell
 
 ## Questions to Answer
 
